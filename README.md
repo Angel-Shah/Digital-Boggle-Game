@@ -9,7 +9,7 @@ It can be run on any windows computer simply by downloading the .jar file and ru
 
 This digital version of boggle has all the features of the calssic board game version if not more.
 Features include:
-1. 16 randomly generated and place letters each round.
+1. 16 randomly generated letters each round.
 2. Built in 3 minute timer.
 3. Option to erase the current word you have selected.
 4. Checker that tells you if you are manking an invalid move.
