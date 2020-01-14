@@ -14,4 +14,7 @@ Features include:
 3. Option to erase the current word you have selected.
 4. Checker that tells you if you are manking an invalid move.
 5. Word checker that checks if the word you select is an actual word or not. 
-6. 
+6. List display that shows words you've already made.
+7. Checker that checks if you are entering a word for a second time.
+8. Option to exit and restart game.
+9. page with instruction on how to play game.
