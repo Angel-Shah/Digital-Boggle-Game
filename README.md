@@ -17,4 +17,7 @@ Features include:
 6. List display that shows words you've already made.
 7. Checker that checks if you are entering a word for a second time.
 8. Option to exit and restart game.
-9. page with instruction on how to play game.
+9. Page with instruction on how to play game.
+
+Here is a GIF that demos the game:
+![](gameDemo.gif)
