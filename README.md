@@ -2,7 +2,7 @@
 This application is a digital version of the classic board game "Boggle".
 
 It was creadted using Java and used java.swing for the GUI implementation.
-It can be run on any windows computer simply by downloading the .jar file and runnig it.
+It can be run on any windows computer simply by downloading the .jar file and running it.
 
 
 <h1> Game Description: </h1>
