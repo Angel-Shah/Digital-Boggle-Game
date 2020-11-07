@@ -1,11 +1,4 @@
-/*
- Angel Shah
-August 20,2018
-ICS4UE
-Mr.Jeg
-Culminationg Project: Boggle Game- this application is a digital version of the popular word game Boggle. Player has 3 mins to make as many words possible from the 16 ramdomly 
-generated letters all while folllowing the game rules.
- */
+
 package finalproject_boggle_ashah;
 
 /**
